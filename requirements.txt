@@ -2,4 +2,3 @@ mysql.connector
 pandas
 numpy
 bokeh
-math
